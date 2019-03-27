@@ -8,6 +8,18 @@
 
 <br>
 
+<h2 align="center">Special Sponsors</h2>
+<table>
+      <tbody>
+        <tr>
+          <td align="center" valign="middle">
+            <a href="https://e.coding.net/?utm_source=ApacheCN&utm_medium=banner&utm_campaign=march2019" target="_blank">
+              <img width="1080" src="http://data.apachecn.org/img/SpecialSponsors/CodingNet.png">
+            </a>
+          </td>
+      </tbody>
+</table>
+
 ## Contents
 1. [Leetcode Solutions](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions)
     - [Python](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/Python)
@@ -27,6 +39,7 @@
     - [C++](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/C++)
     
 ## Useful Links
+- [结构化算法刷题训练指南](https://xiaozhuanlan.com/Lisanaaa)(希望大家支持一下！)
 - [编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/index.html)
 - [kamyu104的Github](https://github.com/kamyu104/LeetCode-Solutions)
 - [数据结构与算法/leetcode/lintcode题解](https://algorithm.yuanbin.me/zh-hans/)
@@ -48,6 +61,8 @@
 - [Algorithm Archive](https://github.com/algorithm-archivists/algorithm-archive)
 - [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 - [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/java/)
+- [AlgoCasts 用心做好每一个算法视频](https://algocasts.io)
+- [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode)
 
 ## Sponsor
 1. [Lisanaaa](https://github.com/Lisanaaa): **Feel free to see my profile and send me an email if you have any job opportunities.**
@@ -69,6 +84,7 @@
 13. [CaviarChen](https://github.com/CaviarChen)
 14. [royIdoodle](https://github.com/royIdoodle)
 15. [MarsXue](https://github.com/MarsXue)
+16. [nature1995](https://github.com/nature1995)
 
 you can make a pull request if you are not in the list above
 ## Pull Request
